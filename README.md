@@ -27,12 +27,13 @@ LoRA for low-rank parameter updates. QLoRA adds adaptive scaling for quantized w
 - Deployment: Single quantized model in memory, Task switching by loading specific adapter
 
 ## Components
-Component	Description
-Diagnostic Agent	Interprets symptom descriptions and suggests possible medical conditions
-Health Education Generator	Produces tailored preventive care and wellness guidance
-One-Day Diet Planner	Generates culturally relevant, individualized meal plans based on real-time health metrics
-Web Dashboard & API	User interface for text/voice input, visualization of vitals, and real-time recommendations
 
+| Component                  | Description                                                                                |
+|----------------------------|--------------------------------------------------------------------------------------------|
+| Diagnostic Agent           | Interprets symptom descriptions and suggests possible medical conditions                   |
+| Health Education Generator | Produces tailored preventive care and wellness guidance                                    |
+| One-Day Diet Planner       | Generates culturally relevant, individualized meal plans based on real-time health metrics |
+| Web Dashboard & API        | User interface for text/voice input, visualization of vitals, and real-time recommendations |
 
 ## Prerequisites
 Python 3.10+
